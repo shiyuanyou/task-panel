@@ -12,3 +12,6 @@
 
 生活小工具：
 1. ChiFan：管理选择苦难症 [[ChiFan-homepage|ChiFan-homepage]]
+
+行为激励:
+1. Hurrah4U：所有的事情之后触发激励即可

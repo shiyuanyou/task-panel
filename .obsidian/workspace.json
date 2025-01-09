@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "核心价值"
             }
+          },
+          {
+            "id": "efcf6291ef2f6c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/项目管理/Hurrah4U.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hurrah4U"
+            }
+          },
+          {
+            "id": "de20d6c1e922cd69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "dc93fcd464478414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/项目管理/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,19 +220,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "aaa1eb24fcd87af8",
+  "active": "de20d6c1e922cd69",
   "lastOpenFiles": [
+    "项目/项目管理/README.md",
+    "项目/项目管理/Hurrah4U.md",
+    "模版/核心价值.md",
     "README.md",
     "感受.md",
     "从0到1的破局.md",
-    "模版/核心价值.md",
     "项目/TuNan/核心价值.md",
     "项目/Hurrah4U/Hurrah4u-homepage.md",
     "项目/TuNan/TuNan-homepage.md",
     "项目/项目管理/TuNan.md",
     "项目/项目管理/battle.md",
     "idea/反馈机制.md",
-    "项目/项目管理/Hurrah4U.md",
     "模版",
     "项目/TuNan/信息差.md",
     "项目/项目管理/ChiFan.md",
@@ -209,7 +252,6 @@
     "社区运营/短内容",
     "社区运营/抖音",
     "社区运营/红薯🍠",
-    "项目/项目管理/OverView.md",
     "社区构建.md",
     "社区运营/红薯🍠/小红书.md",
     "attachments/nginx.png.png",
