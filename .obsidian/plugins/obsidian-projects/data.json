@@ -1,0 +1,435 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/AskBQ",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "顺序",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "48d8ba9f-814b-4876-9a88-fe91403517db",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "1c08f2b9-b748-4097-8e38-3701eacbbe46",
+      "name": "AskBQ"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "模版/核心价值.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/TuNan",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "顺序"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "顺序",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "5e10cd2d-e3e5-46b2-bded-d3db5b38628a",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "0ec9d7be-e122-4dce-b904-5cf0cf585246",
+      "name": "TuNan"
+    },
+    {
+      "fieldConfig": {
+        "顺序": {
+          "options": []
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/ChiFan",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "58b62dee-48e4-48b7-9c2c-20686492c775",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "daa1458f-0fc8-4a96-8473-a9fcb6bfa369",
+      "name": "吃饭"
+    },
+    {
+      "fieldConfig": {
+        "homePage": {
+          "richText": true
+        },
+        "一句话描述": {
+          "options": [
+            "这是一个XXX的项目"
+          ]
+        },
+        "完成": {},
+        "创建时间": {
+          "time": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/项目管理",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "完成",
+              "创建时间",
+              "结束时间",
+              "优先级",
+              "githubLink",
+              "一句话描述",
+              "homePage",
+              "tags"
+            ],
+            "fieldConfig": {
+              "name": {
+                "width": 118
+              },
+              "path": {
+                "width": 127,
+                "hide": true
+              },
+              "优先级": {
+                "width": 114,
+                "hide": false
+              },
+              "homePage": {
+                "width": 180,
+                "hide": false
+              },
+              "githubLink": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "创建时间": {
+                "width": 130
+              },
+              "结束时间": {
+                "width": 128,
+                "hide": true
+              },
+              "一句话描述": {
+                "width": 317
+              },
+              "完成": {
+                "width": 122
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "优先级",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "dc9cdd3e-90cc-40ec-a4dd-0ca770c9e93b",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9f44ea28-6536-480b-bde6-04a6d82d3446",
+          "name": "项目管理",
+          "type": "board"
+        }
+      ],
+      "id": "db1abf66-ff08-42e4-a99a-db84e397863c",
+      "name": "项目管理"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "社区运营",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "顺序",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "重要性",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "8da89b63-6e68-4388-b1c4-15391ccc21c2",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "11a92e5f-7c63-44b5-a7ff-0655ed1d14c9",
+      "name": "媒体"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/Hurrah4U",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": false
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "顺序"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "顺序",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "c7e5289b-5f97-474d-8d5b-1c4dd41730ad",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "1ad0c82d-cd4a-4f3d-a58f-135581c60a18",
+      "name": "Hurrah4U"
+    }
+  ],
+  "archives": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "社区运营",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "顺序",
+                "order": "asc",
+                "enabled": true
+              },
+              {
+                "field": "重要性",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "29e790a3-7a19-4bd9-84d6-3c1e4b1d54a4",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "59069423-3537-4b8a-b894-37e453123ed8",
+      "name": "社区运营"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [
+      {
+        "project": "db1abf66-ff08-42e4-a99a-db84e397863c",
+        "view": "9f44ea28-6536-480b-bde6-04a6d82d3446"
+      },
+      {
+        "project": "1ad0c82d-cd4a-4f3d-a58f-135581c60a18"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}
