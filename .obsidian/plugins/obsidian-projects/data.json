@@ -353,6 +353,41 @@
       ],
       "id": "1ad0c82d-cd4a-4f3d-a58f-135581c60a18",
       "name": "Hurrah4U"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/YoYooWonderExpo",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d8f93795-c3b4-42a7-a6b7-078668beb0c9",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "386e3e98-4ae8-471d-b56d-73534a0afd92",
+      "name": "YoYooWonderExpo"
     }
   ],
   "archives": [

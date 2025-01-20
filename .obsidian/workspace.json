@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55f0ef7cea0c7ed3",
+            "id": "ce0ff75d83143af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,63 +22,21 @@
             }
           },
           {
-            "id": "584813c2f1a9eac4",
+            "id": "804c3b74ea346cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模版/核心价值.md",
+                "file": "项目/AskBQ/AskBQ-homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心价值"
-            }
-          },
-          {
-            "id": "efcf6291ef2f6c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/项目管理/Hurrah4U.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hurrah4U"
-            }
-          },
-          {
-            "id": "de20d6c1e922cd69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "dc93fcd464478414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/项目管理/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "AskBQ-homepage"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -211,25 +169,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-projects:打开项目": false
     }
   },
-  "active": "de20d6c1e922cd69",
+  "active": "804c3b74ea346cc8",
   "lastOpenFiles": [
+    "项目/项目管理/YoYooWonder-Expo.md",
+    "项目/YoYooWonderExpo/YoYooWonderExpo-homepage.md",
+    "项目/YoYooWonderExpo",
+    "项目/Hurrah4U/Hurrah4u-homepage.md",
     "项目/项目管理/README.md",
     "项目/项目管理/Hurrah4U.md",
-    "模版/核心价值.md",
     "README.md",
+    "模版/核心价值.md",
     "感受.md",
     "从0到1的破局.md",
     "项目/TuNan/核心价值.md",
-    "项目/Hurrah4U/Hurrah4u-homepage.md",
     "项目/TuNan/TuNan-homepage.md",
     "项目/项目管理/TuNan.md",
     "项目/项目管理/battle.md",
@@ -253,12 +214,9 @@
     "社区运营/抖音",
     "社区运营/红薯🍠",
     "社区构建.md",
-    "社区运营/红薯🍠/小红书.md",
     "attachments/nginx.png.png",
-    "社区运营/未命名.md",
     "社区运营",
     "项目/项目管理",
-    "项目/ChiFan",
     "Pasted image 20241219120350.png"
   ]
 }
