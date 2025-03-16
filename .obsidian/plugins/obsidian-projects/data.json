@@ -169,6 +169,7 @@
           "config": {
             "orderFields": [
               "name",
+              "中文名",
               "path",
               "完成",
               "创建时间",
@@ -181,7 +182,7 @@
             ],
             "fieldConfig": {
               "name": {
-                "width": 118
+                "width": 153
               },
               "path": {
                 "width": 127,
@@ -213,6 +214,9 @@
               },
               "完成": {
                 "width": 122
+              },
+              "中文名": {
+                "width": 138
               }
             }
           },
@@ -388,6 +392,76 @@
       ],
       "id": "386e3e98-4ae8-471d-b56d-73534a0afd92",
       "name": "YoYooWonderExpo"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/ReadingCheck",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d0a8455d-40b3-453f-a2fb-c8e07e5eff69",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "e0f5d0fe-2993-44ec-bb39-4d250c9e0f0c",
+      "name": "ReadingCheck"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "项目/Duanmu",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "014e2531-f8dd-48a6-a45a-35ef1032fcd1",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "a4d43bb5-7cb9-441a-9fb7-998f59775312",
+      "name": "Duanmu"
     }
   ],
   "archives": [

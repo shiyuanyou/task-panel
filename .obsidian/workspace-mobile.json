@@ -11,10 +11,14 @@
             "id": "7e176797f03dc914",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "idea库/趣味工具/时间换率计算器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "时间换率计算器"
             }
           }
         ]
@@ -32,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "文件列表"
@@ -91,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "idea库/趣味工具/时间换率计算器.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
